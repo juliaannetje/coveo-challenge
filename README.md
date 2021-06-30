@@ -1,4 +1,4 @@
-# coveo-devops-challenge
+# coveo-challenge
 
 Welcome to the Coveo command line storage analysis tool!
 
@@ -43,5 +43,3 @@ The region can be specified via the -region argument. If using this argument, on
 If you would like to search for only a specific bucket, or all buckets starting with the same prefix, the -prefix argument can be used. 
 
 *Example*: coveo-storage-tool.py -prefix my-bucket-prefix
-
-# coveo-challenge
